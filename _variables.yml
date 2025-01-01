@@ -1,0 +1,58 @@
+author: Mine Dogucu
+institute: University of California Irvine
+department: Department of Statistics
+
+course:
+  code: STATS 67
+  short-title: Stats 4 CS
+  long-title: "Introduction to Probability and Statistics for Computer Science"
+  term: Fall
+  year: "2024"
+  site: "https://www.stats4cs.cpm/"
+  github-org: "https://github.com/mdogucu?tab=repositories&q=stats67-fa24&type=&language=&sort="
+  discussion: "https://edstem.org/us/courses/61625"
+  lms: "https://canvas.eee.uci.edu/courses/64907/gradebook"
+  gradescope: "https://www.gradescope.com/courses/814893"
+  
+instructor:
+  name: Dr. Mine Dogucu
+  email: mdogucu@uci.edu
+  website: https://www.minedogucu.com
+  pronoun: she/they
+  photo: "img/mine-dogucu.jpeg"
+  audio: "mine-dogucu.mp3"
+  office-hours: "M 2:30 - 3:30 pm in person and online"
+  zoom: "https://uci.zoom.us/j/92255491183"
+  office : "DBH 2204"
+  
+  
+ta1: 
+  name: Peter Zhu
+  email: "pwzhu@uci.edu"
+  pronoun: "he/him"
+  photo: "img/ta1.jpeg"
+  audio: "ta1.mp3"
+  office-hours: "Tu 3:30 - 4:30 pm and Th 10:30 - 11: 30 am in person and online"
+  office: "DBH 2013"
+  zoom: "https://uci.zoom.us/j/91019947123"
+  
+  
+ta2: 
+  name: Keylin Serrano
+  email: "kyserran@uci.edu"
+  pronoun: "she/her"
+  photo: "img/ta2.jpeg"
+  audio: "ta2.mp3"
+  office-hours: "W 5:00 - 6:00 pm - F 11:30 am - 12:30 pm in person and online"
+  office: "DBH 2013"
+  zoom: "https://uci.zoom.us/j/97000977931"
+  
+ta3: 
+  name: Lynsie Warr
+  email: "lwarr@uci.edu"
+  pronoun: "she/her"
+  photo: "img/ta3.jpeg"
+  audio: "ta3.mp3"
+
+  
+
