@@ -15,7 +15,7 @@ Winter 2025
 
 Introduction to the basic concepts of probability and statistics with discussion of applications to computer science.
 
-Course website is hosted at [mdogucu.github.io/stats67a-wi25-website/](mdogucu.github.io/stats67a-wi25-website/).
+Course website is hosted at [mdogucu.github.io/stats67b-wi25-website/](mdogucu.github.io/stats67b-wi25-website/).
 
 <hr>
 
