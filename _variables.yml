@@ -29,23 +29,23 @@ instructor:
   
   
 ta2: 
-  name: Christian Bernal (Lec A)
+  name: Christian Bernal
   email: "cbernalz@uci.edu"
   pronoun: "he/him"
   photo: "img/ta1.jpeg"
   audio: "ta1.mp3"
-  office-hours: "W and Thursday 2:30 pm - 3:30 pm in person and online"
+  office-hours: "W 2:30 pm - 3:30 pm and Thu 2:30 pm - 3:30 pm in person and online"
   office: "TBD"
   zoom: "TBD"
   
   
 ta1: 
-  name: Yiyao Shi
+  name: Yiyao Shi (Lec B)
   email: "yiyaos@uci.edu"
-  pronoun: "TBD"
+  pronoun: "he/him"
   photo: "img/ta2.jpeg"
   audio: "ta2.mp3"
-  office-hours: "TBD in person and online"
+  office-hours: "M 2:30 -3:30 pm and F 4:30 - 5:30 pm in person and online"
   office: "TBD"
   zoom: "TBD"
   
