@@ -1,4 +1,4 @@
-{{< fa calendar >}} Sept 26 - Sep 29
+{{< fa calendar >}} Jan 2-5
 
 {{< fa comment >}} Getting Ready for STATS 67
 
@@ -18,7 +18,7 @@
   <tr>
     <td><input type="checkbox" /></td>
     <td> Getting to Know the Course Website &nbsp; &nbsp; </td>
-    <td>Take time go over the contents of this website, especially read the policies section. Do not forget to bookmark <a href="https:stats4cs.com">stats4cs.com</a>.</td>
+    <td>Take time go over the contents of this website, especially read the policies section. Do not forget to bookmark <a href="https://mdogucu.github.io/stats67b-wi25-website/">https://mdogucu.github.io/stats67b-wi25-website/</a>.</td>
     <td></td>
     <td></td>
   </tr>
@@ -27,27 +27,27 @@
     <td><input type="checkbox" /></td>
     <td>Introduce Yourself to the Teaching Team </td>
     <td>The responses to this "quiz" will not be available to your classmates. The quiz is not timed.</td>
-    <td><a href="https://www.gradescope.com/courses/814893/assignments/4974565" target ="_blank"> <i class="fas fa-edit" aria-hidden="true"
+    <td><a href="https://www.gradescope.com/courses/935956/assignments/5512473" target ="_blank"> <i class="fas fa-edit" aria-hidden="true"
             title="External Link to Gradescope" target = "_blank"></i></a></td>
-    <td>Sep 29, 11:59 pm</td>
+    <td>Jan 7, 11:00 am</td>
   </tr>
   
   <tr>
     <td><input type="checkbox" /></td>
     <td> Syllabus Quiz &nbsp; &nbsp; </td>
     <td></td>
-    <td><a href="https://www.gradescope.com/courses/814893/assignments/4974908" target ="_blank"> <i class="fas fa-edit" aria-hidden="true"
+    <td><a href="https://www.gradescope.com/courses/935956/assignments/5512474" target ="_blank"> <i class="fas fa-edit" aria-hidden="true"
             title="External Link to Gradescope" target = "_blank"></i></a></td>
-    <td>Sep 29, 11:59 pm</td>
+    <td>Jan 7, 11:00 am</td>
   </tr>
   
   <tr>
     <td><input type="checkbox" /></td>
     <td>Get Your Tech Ready </td>
     <td>The responses to this "quiz" will help us make sure that you are ready for the first class in terms of your tech needs. The quiz is not timed.</td>
-    <td><a href="https://www.gradescope.com/courses/814893/assignments/4974693" target ="_blank"> <i class="fas fa-edit" aria-hidden="true"
+    <td><a href="https://www.gradescope.com/courses/935956/assignments/5512476" target ="_blank"> <i class="fas fa-edit" aria-hidden="true"
             title="External Link to Gradescope" target = "_blank"></i></a></td>
-    <td>Sep 29, 11:59 pm</td>
+    <td>Jan 7, 11:00 am</td>
   </tr>
     
 

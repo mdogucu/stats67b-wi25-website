@@ -11,7 +11,7 @@ Note that week 0 quizzes are not given in class and will be graded for correctne
 
 ### Homework Assignments
 
-At the end of Wednesday after weekly topics are completed you will be assigned a homework on these topics. You will have until Sunday 11:59 pm to finish the homework assignments. 
+After weekly topics are completed you will be assigned a homework on these topics. You will have until {{< var course.homework >}} to finish the homework assignments. 
 For homework assignments, you can use books and notes, talk to other people in your class, use online resources including ChatGPT however there are some limitations.
 
 - Use tools and discuss with people to LEARN. Do not use tools or discuss with people to simply copy and submit the homework.
@@ -24,14 +24,14 @@ TLDR; Use tools or people to help you learn BUT acknowledge in detail how this h
 
 ### Midterm Exam
 
-Midterm exam will be held in-person, in-class on Oct 30th. 
+Midterm exam will be held in-person, in-class on {{< var course.midterm >}}. 
 You will work individually on the exam.
 It will be a closed-book exam but you will be given equations.
 You will not need a calculator and you will not be allowed to use one.
 
 ### Final Exam
 
-Final exam will be held in-person, for Lecture A group on Fri, Dec 13 at 8:00-10:00am and for Lecture B group on Mon, Dec 9 at 1:30-3:30pm.
+Final exam will be held in-person, {{< var course.final >}}.
 You will work individually on the exam.
 It will be a closed-book exam but you will be given equations.
 You will not need a calculator and you will not be allowed to use one.

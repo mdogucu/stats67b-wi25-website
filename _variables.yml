@@ -3,17 +3,19 @@ institute: University of California Irvine
 department: Department of Statistics
 
 course:
-  code: STATS 67
+  code: STATS 67 Lec B
   short-title: Stats 4 CS
-  long-title: "Introduction to Probability and Statistics for Computer Science"
-  term: Fall
-  year: "2024"
-  site: "https://www.stats4cs.cpm/"
-  github-org: "https://github.com/mdogucu?tab=repositories&q=stats67-fa24&type=&language=&sort="
-  discussion: "https://edstem.org/us/courses/61625"
-  lms: "https://canvas.eee.uci.edu/courses/64907/gradebook"
-  gradescope: "https://www.gradescope.com/courses/814893"
-  
+  long-title: Introduction to Probability and Statistics for Computer Science
+  term: Winter
+  year: 2025
+  site: "https://mdogucu.github.io/stats67b-wi25-website/"
+  github-org: "https://github.com/mdogucu?tab=repositories&q=stats67b-wi25&type=&language=&sort="
+  discussion: "https://edstem.org/us/courses/70681/"
+  lms: "https://canvas.eee.uci.edu/courses/70344/gradebook"
+  gradescope: "https://www.gradescope.com/courses/935956"
+  final: on Tue, Mar 18 at 10:30-12:30pm	
+  midterm: on Feb 6 during lecture time
+  homework: 11:00 am on Tuesdays
 instructor:
   name: Dr. Mine Dogucu
   email: mdogucu@uci.edu
@@ -21,35 +23,35 @@ instructor:
   pronoun: she/they
   photo: "img/mine-dogucu.jpeg"
   audio: "mine-dogucu.mp3"
-  office-hours: "M 2:30 - 3:30 pm in person and online"
-  zoom: "https://uci.zoom.us/j/92255491183"
+  office-hours: "Tu 3:30 - 4:30 pm in person and online"
+  zoom: "https://uci.zoom.us/j/93449828841"
   office : "DBH 2204"
   
   
-ta1: 
-  name: Peter Zhu
-  email: "pwzhu@uci.edu"
+ta2: 
+  name: Christian Bernal (Lec A)
+  email: "cbernalz@uci.edu"
   pronoun: "he/him"
   photo: "img/ta1.jpeg"
   audio: "ta1.mp3"
-  office-hours: "Tu 3:30 - 4:30 pm and Th 10:30 - 11: 30 am in person and online"
-  office: "DBH 2013"
-  zoom: "https://uci.zoom.us/j/91019947123"
+  office-hours: "TBD in person and online"
+  office: "TBD"
+  zoom: "TBD"
   
   
-ta2: 
-  name: Keylin Serrano
+ta1: 
+  name: Yiyao Shi
   email: "kyserran@uci.edu"
-  pronoun: "she/her"
+  pronoun: "TBD"
   photo: "img/ta2.jpeg"
   audio: "ta2.mp3"
-  office-hours: "W 5:00 - 6:00 pm - F 11:30 am - 12:30 pm in person and online"
-  office: "DBH 2013"
-  zoom: "https://uci.zoom.us/j/97000977931"
+  office-hours: "TBD in person and online"
+  office: "TBD"
+  zoom: "TBD"
   
 ta3: 
-  name: Lynsie Warr
-  email: "lwarr@uci.edu"
+  name: Sara Tyo 
+  email: "tyos@uci.edu"
   pronoun: "she/her"
   photo: "img/ta3.jpeg"
   audio: "ta3.mp3"

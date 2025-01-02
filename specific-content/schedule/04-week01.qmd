@@ -1,4 +1,4 @@
-{{< fa calendar >}} Sep 30 - Oct 6
+{{< fa calendar >}} Jan 6 - 12
 
 
 <table class="table-striped text-left table-bordered" align = "center">
@@ -16,9 +16,9 @@
     <td><input type="checkbox" /></td>
     <td> Introduction to STATS 67 and Data &nbsp; &nbsp; </td>
     <td>Welcome!!!</td>
-    <td><a href="https://mdogucu.github.io/stats67-fa24-slides/week01/1a-intro-data.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
+    <td><a href="https://mdogucu.github.io/stats67b-wi25-slides/week01/1a-intro-data.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
             title="External Link to Slides" target = "_blank"></i></a>
-      <a href="https://mdogucu.github.io/stats67-fa24-starter-codes/1a-intro-data.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
+      <a href="https://mdogucu.github.io/stats67b-wi25-starter-codes/1a-intro-data.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
             title="External Link to Slides" target = "_blank"></i></a></td>
     <td></td>
   </tr>
@@ -38,8 +38,8 @@
     <td><input type="checkbox" /></td>
     <td> Summarizing Data &nbsp; &nbsp; </td>
     <td>Descriptive Statistics and Data Visualizations</td>
-    <td><a href="https://mdogucu.github.io/stats67-fa24-slides/week01/1b-summarize-data.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
-            title="External Link to Slides" target = "_blank"></i></a> <a href="https://mdogucu.github.io/stats67-fa24-starter-codes/1b-summarize-data.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
+    <td><a href="https://mdogucu.github.io/stats67b-wi25-slides/week01/1b-summarize-data.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
+            title="External Link to Slides" target = "_blank"></i></a> <a href="https://mdogucu.github.io/stats67b-wi25-starter-codes/1b-summarize-data.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
             title="External Link to Slides" target = "_blank"></i></a></td>
     <td></td>
   </tr>
@@ -48,7 +48,7 @@
     <td><input type="checkbox" /></td>
     <td> Discussion: Summarizing Data &nbsp; &nbsp; </td>
     <td> </td>
-    <td> <a href="https://mdogucu.github.io/stats67-fa24-starter-codes/1d-summarize-data.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
+    <td> <a href="https://mdogucu.github.io/stats67b-wi25-starter-codes/1d-summarize-data.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
             title="External Link to Slides" target = "_blank"></i></a></td>
     <td></td>
   </tr>
@@ -68,10 +68,10 @@
     <td><input type="checkbox" /></td>
     <td> Homework 1: First Steps with Data &nbsp; &nbsp; </td>
     <td></td>
-    <td><a href="https://www.gradescope.com/courses/814893/assignments/4983214" target ="_blank"> <i class="fas fa-edit" aria-hidden="true"
-            title="External Link to Gradescope" target = "_blank"></i></a> <a href="https://mdogucu.github.io/stats67-fa24-starter-codes/1h-summarize-data.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
+    <td><a href="https://www.gradescope.com/courses/935956/assignments/5511982" target ="_blank"> <i class="fas fa-edit" aria-hidden="true"
+            title="External Link to Gradescope" target = "_blank"></i></a> <a href="https://mdogucu.github.io/stats67b-wi25-starter-codes/1h-summarize-data.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
             title="External Link to Slides" target = "_blank"></i></a></td>
-    <td>Oct 6, 11:59 pm</td>
+    <td>Jan 14, 11:00 am</td>
   </tr>
     
         

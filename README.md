@@ -6,7 +6,7 @@
 ### Introduction to Probability and Statistics for Computer Science
 University of California Irvine 
 
-Fall 2024 
+Winter 2025 
 
 [Dr. Mine Dogucu](https://minedogucu.com)  
 
@@ -15,7 +15,7 @@ Fall 2024
 
 Introduction to the basic concepts of probability and statistics with discussion of applications to computer science.
 
-Course website is hosted at [stats4cs.com](https://stats4cs.com).
+Course website is hosted at [mdogucu.github.io/stats67a-wi25-website/](mdogucu.github.io/stats67a-wi25-website/).
 
 <hr>
 
