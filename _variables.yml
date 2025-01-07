@@ -35,8 +35,8 @@ ta2:
   photo: "img/ta1.jpeg"
   audio: "ta1.mp3"
   office-hours: "W 2:30 pm - 3:30 pm and Thu 2:30 pm - 3:30 pm in person and online"
-  office: "TBD"
-  zoom: "TBD"
+  office: "DBH 2013"
+  zoom: "https://uci.zoom.us/j/92416250607"
   
   
 ta1: 
@@ -46,8 +46,8 @@ ta1:
   photo: "img/ta2.jpeg"
   audio: "ta2.mp3"
   office-hours: "M 2:30 -3:30 pm and F 4:30 - 5:30 pm in person and online"
-  office: "TBD"
-  zoom: "TBD"
+  office: "DBH 2221"
+  zoom: "https://uci.zoom.us/j/93068686885"
   
 ta3: 
   name: Sara Tyo 
