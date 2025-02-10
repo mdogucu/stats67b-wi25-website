@@ -42,7 +42,7 @@
     <td><input type="checkbox" /></td>
     <td> Discussion: Review of Midterm Part 1&nbsp; &nbsp; </td>
     <td> </td>
-    <td><a href="" target ="_blank"> <i class="fas fa-video" aria-hidden="true"
+    <td><a href="https://uci.yuja.com/V/Video?v=12348428&node=53939332&a=43852125" target ="_blank"> <i class="fas fa-video" aria-hidden="true"
             title="External Link to Video" target = "_blank"></i> </td>
     <td></td>
   </tr>
@@ -51,7 +51,7 @@
     <td><input type="checkbox" /></td>
     <td> Discussion: Review of Midterm Part 2&nbsp; &nbsp; </td>
     <td> </td>
-    <td><a href="" target ="_blank"> <i class="fas fa-video" aria-hidden="true"
+    <td><a href="https://uci.yuja.com/V/Video?v=12348433&node=53939341&a=111059665" target ="_blank"> <i class="fas fa-video" aria-hidden="true"
             title="External Link to Video" target = "_blank"></i> </td>
     <td></td>
   </tr>
