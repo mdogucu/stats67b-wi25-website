@@ -11,20 +11,12 @@
     <th style="width:  15%">Due</th>
   </thead>
   
-<tr>
-    <td><input type="checkbox" /></td>
-    <td> Inference for a Single Mean &nbsp; &nbsp; </td>
-    <td></td>
-    <td><a href="https://mdogucu.github.io/stats67b-wi25-slides/week08/8a-single-mean.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
-            title="External Link to Slides" target = "_blank"></i></a> </td>
-    <td></td>
-  </tr>
   
   <tr>
     <td><input type="checkbox" /></td>
     <td> Inference for Difference of Two Means &nbsp; &nbsp; </td>
     <td></td>
-    <td><a href="https://mdogucu.github.io/stats67b-wi25-slides/week08/8b-diff-means.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
+    <td><a href="https://mdogucu.github.io/stats67a-wi25-slides/week08/8a-diff-means.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
             title="External Link to Slides" target = "_blank"></i></td>
     <td></td>
   </tr>
@@ -38,11 +30,31 @@
     <td></td>
   </tr>
   
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Simple Linear Regression &nbsp; &nbsp; </td>
+    <td></td>
+    <td><a href="https://mdogucu.github.io/stats67-fa24-slides/week08/8b-simple-linear-regression.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
+            title="External Link to Slides" target = "_blank"></i></a> 
+            <a href="https://mdogucu.github.io/stats67-fa24-starter-codes/8b-simple-linear-regression.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
+            title="External Link to Slides" target = "_blank"></i></a></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Reading </td>
+    <td>Chapter 8</td>
+    <td><a href="https://www.openintro.org/go/?id=os4_for_screen_readers&referrer=/book/os/index.php" target ="_blank"> <i class="fas fa-book" aria-hidden="true"
+            title="External Link to the Book" target = "_blank"></i></a></td>
+    <td></td>
+  </tr>
+  
 <tr>
     <td><input type="checkbox" /></td>
     <td> Discussion: Inference for Difference of Two Proportions and a Single Mean &nbsp; &nbsp; </td>
     <td> </td>
-    <td> <a href="https://mdogucu.github.io/stats67b-wi25-starter-codes/8d-diff-mean-simple-linear-regression.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
+    <td> <a href="https://mdogucu.github.io/stats67a-wi25-starter-codes/8d-diff-mean-simple-linear-regression.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
             title="External Link to Slides" target = "_blank"></i></a></td>
     <td></td>
   </tr>
@@ -61,10 +73,10 @@
    <tr>
     <td><input type="checkbox" /></td>
     <td> Homework 8: Inference for Difference of Two Means &nbsp; &nbsp; </td>
-    <td>There are three different hw8 assignments. Pick the one you like and only complete one of them.</td>
-    <td><a href="https://www.gradescope.com/courses/935956/assignments" target ="_blank"> <i class="fas fa-edit" aria-hidden="true"
+    <td></td>
+    <td><a href="https://www.gradescope.com/courses/935954/assignments/5837698" target ="_blank"> <i class="fas fa-edit" aria-hidden="true"
             title="External Link to Gradescope" target = "_blank"></i></a></td>
-    <td>Mar 4, 11:00 am</td>
+    <td>Mar 4, 9:30 am</td>
   </tr>
     
         
